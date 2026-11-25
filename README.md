@@ -44,6 +44,12 @@ I'm an Informatics student passionate about software development and artificial 
 
 ---
 
+<h3 align="center">📈 Contribution Activity</h3>
+
+<p align="center">
+  <img src="./assets/acrade-contributions.svg" width="100%" />
+</p>
+
 ### 📊 GitHub Statistics
 
 <p align="center">
