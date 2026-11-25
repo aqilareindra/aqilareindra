@@ -16,13 +16,13 @@ I'm an Informatics student passionate about software development and artificial 
 **Languages & Frameworks**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,php,bootstrap,laravel" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,php,typescript,bootstrap,laravel,vue,nestjs" />
 </p>
 
 **Tools & Technologies**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,mysql,flutter" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,mysql,prisma,flutter,antdesign" />
 </p>
 
 ---
